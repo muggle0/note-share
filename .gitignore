@@ -38,3 +38,7 @@ logs
 /boot-grpc/.gradle/
 /boot-grpc/gradlew.bat
 /boot-grpc/gradlew
+/proto/gradlew
+/proto/gradlew.bat
+/proto/gradle/
+/proto/.gradle/
