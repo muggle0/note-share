@@ -8,7 +8,20 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/boot-grpc" />
+            <option value="$PROJECT_DIR$/boot-client" />
+            <option value="$PROJECT_DIR$/proto-entity" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/boot-client" />
+        <option name="gradleHome" value="D:/exe/gradle-5.4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/boot-client" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
