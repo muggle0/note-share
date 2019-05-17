@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.muggle</groupId>
+    <artifactId>dubbo-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <modules>
+        <module>../dubbo-base</module>
+        <module>../boot-dubbo-server</module>
+        <module>../boot-dubbo-consumer</module>
+        <module>../release-test</module>
+        <module>../apach-dubbo-test</module>
+    </modules>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-core</artifactId>
+            <version>5.1.6.RELEASE</version>
+        </dependency>
+    </dependencies>
+</project>
