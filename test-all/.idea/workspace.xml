@@ -298,7 +298,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2037" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -395,7 +396,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558079238579" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../incubator-dubbo-spring-boot-project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -438,9 +439,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="GrpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.muggle.boot.GrpcClient" />
@@ -451,9 +449,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="GrpcServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.muggle.boot.GrpcServer" />
@@ -464,9 +459,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="grpc-test [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -484,8 +476,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="grpc-test [generateProto]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -503,65 +493,54 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="ApachDubboTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="apach-dubbo-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.apachdubbotest.ApachDubboTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="BootDubboConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-dubbo-consumer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.bootdubboconsumer.BootDubboConsumerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="BootDubboServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-dubbo-server" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.bootdubboserver.BootDubboServerApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="BootStaterTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="boot-stater-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.bootstatertest.BootStaterTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="DubboMavenTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="dubbo-maven-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.dubbomaventest.DubboMavenTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="JetcaheTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="jetcahe-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.jetcahetest.JetcaheTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="PoseidonCloudGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="com.muggle.poseidon-cloud-gateway.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.poseidoncloudgateway.PoseidonCloudGatewayApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="ReleaseTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="release-test" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.muggle.releasetest.ReleaseTestApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ApachDubboTestApplication" />
+      <item itemvalue="Spring Boot.BootDubboConsumerApplication" />
+      <item itemvalue="Spring Boot.BootDubboServerApplication" />
+      <item itemvalue="Spring Boot.BootStaterTestApplication" />
+      <item itemvalue="Spring Boot.DubboMavenTestApplication" />
+      <item itemvalue="Spring Boot.JetcaheTestApplication" />
+      <item itemvalue="Spring Boot.PoseidonCloudGatewayApplication" />
+      <item itemvalue="Spring Boot.ReleaseTestApplication" />
+      <item itemvalue="Application.BootDubboServerApplication" />
+      <item itemvalue="Application.GrpcClient" />
+      <item itemvalue="Application.GrpcServer" />
+      <item itemvalue="Gradle.grpc-test [build]" />
+      <item itemvalue="Gradle.grpc-test [generateProto]" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BootDubboServerApplication" />

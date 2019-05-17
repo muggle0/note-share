@@ -3,10 +3,7 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../poseidon-cloud-parent/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../poseidon-cloud-parent/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../poseidon-cloud-parent/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../poseidon-cloud-parent/src/test/resources" type="java-test-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../poseidon-cloud-parent/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="com.muggle.poseidon-cloud-parent.main" />

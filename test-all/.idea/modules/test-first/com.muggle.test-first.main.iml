@@ -4,6 +4,10 @@
     <facet type="web" name="Web">
       <configuration>
         <webroots />
+        <sourceRoots>
+          <root url="file://$MODULE_DIR$/../../../gradle-test/test-first/src/main/java" />
+          <root url="file://$MODULE_DIR$/../../../gradle-test/test-first/src/main/resources" />
+        </sourceRoots>
       </configuration>
     </facet>
     <facet type="Spring" name="Spring">
@@ -15,7 +19,6 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../gradle-test/test-first/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../gradle-test/test-first/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../gradle-test/test-first/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
