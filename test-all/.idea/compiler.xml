@@ -14,6 +14,7 @@
         <module name="dubbo-parent" />
         <module name="dubbobase" />
         <module name="jetcahe-test" />
+        <module name="proxy-test" />
         <module name="release-test" />
       </profile>
     </annotationProcessing>
@@ -38,6 +39,7 @@
       <module name="dubbo-parent" target="1.5" />
       <module name="dubbobase" target="1.5" />
       <module name="jetcahe-test" target="1.8" />
+      <module name="proxy-test" target="1.5" />
       <module name="release-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
