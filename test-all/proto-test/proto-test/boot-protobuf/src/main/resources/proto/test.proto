@@ -1,0 +1,8 @@
+syntax = "proto2";
+option java_package = "com.muggle.proto";
+option java_outer_classname = "TestMessage";
+
+message Book {
+    required string author=1;
+    optional int32 page=2;
+}
