@@ -1,0 +1,17 @@
+syntax = "proto3";
+package com.muggle.proto;
+
+option java_package = "com.muggle.proto";
+option java_outer_classname = "StudentProto";
+option java_multiple_files = true;
+
+service StudentService {
+    rpc GetRealName (MyRequest) returns (MyResponse) {
+    }
+}
+message MyRequest {
+    string username = 1;
+}
+message MyResponse {
+    string realname = 2;
+}
