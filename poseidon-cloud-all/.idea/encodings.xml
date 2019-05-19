@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-first" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-second" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server-doc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/poseidon-cloud-zuul" charset="UTF-8" />
+  </component>
+</project>

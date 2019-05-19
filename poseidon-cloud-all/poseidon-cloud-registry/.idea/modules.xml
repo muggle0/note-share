@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry-first/poseidon-cloud-registry-first.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry-first/poseidon-cloud-registry-first.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry-second/poseidon-cloud-registry-second.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry-second/poseidon-cloud-registry-second.iml" />
+    </modules>
+  </component>
+</project>
