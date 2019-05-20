@@ -2,97 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fc9f7d9-0b68-427d-81bd-5fabaa904b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/dubbo-2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/git相关指令及在idea中的使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/markdown/mysql主从复制.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/http/TestHttpServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/http/TestNetty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/http/TestServerInitlizer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/manySocket/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/manySocket/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/manySocket/MyserverHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/MyServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/MyserverHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/consummer/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/consummer/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/socket/consummer/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/websocket/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/netty/websocket/WebSocketChannelinitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/proto/TestMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/client/ClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/client/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/client/RpcMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/server/RpcInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/server/RpcServerMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/rpc/server/TestServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/test/TestMyProto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/java/com/muggle/zerocopy/CopyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/resources/proto/test.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/src/main/resources/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/http/TestHttpServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/http/TestNetty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/http/TestServerInitlizer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/manySocket/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/manySocket/MyServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/manySocket/MyserverHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/MyServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/MyserverHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/consummer/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/consummer/MyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/socket/consummer/MyClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/websocket/MyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/netty/websocket/WebSocketChannelinitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage$Book$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage$Book$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage$Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage$BookOrBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/proto/TestMessage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/client/ClientInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/client/MyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/client/RpcMessageHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/server/RpcInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/server/RpcServerMessageHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/rpc/server/TestServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/com/muggle/test/TestMyProto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/netty/target/classes/proto/test.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/proxy-test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MyInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MySubject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MySubjectImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/target/classes/com/muggle/MainClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/target/classes/com/muggle/MyInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/target/classes/com/muggle/MySubject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy-test/target/classes/com/muggle/MySubjectImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.muggle.gradle-test.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.muggle.gradle-test.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.muggle.gradle-test.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.muggle.gradle-test.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.muggle.poseidon-cloud-parent.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.muggle.poseidon-cloud-parent.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/com.muggle.poseidon-cloud-parent.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/com.muggle.poseidon-cloud-parent.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test-first/com.muggle.test-first.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test-first/com.muggle.test-first.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test-first/com.muggle.test-first.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test-first/com.muggle.test-first.test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test-second/com.muggle.test-second.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test-second/com.muggle.test-second.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test-second/com.muggle.test-second.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test-second/com.muggle.test-second.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/java/com/muggle/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-test/oauth2-demo" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-test/oauth2-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-test/security-about" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-test/security-about" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dubbo-parent/dubbo-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-parent/dubbo-parent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle-test/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/gradle-test/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poseidon-cloud-parent/.gradle/4.10/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/poseidon-cloud-parent/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/poseidon-cloud-gateway/.gradle/" />
     <ignored path="$PROJECT_DIR$/poseidon-cloud-gateway/build/" />
@@ -183,45 +106,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MyInvocationHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot-dubbo-server/src/main/java/com/muggle/bootdubboserver/TestServer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/nacos-dubbo/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1024">
-              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oauth2-test/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            <state relative-caret-position="747">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -230,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -238,17 +127,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state relative-caret-position="112">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+            <state relative-caret-position="352">
+              <caret line="22" column="3" selection-end-line="23" />
+              <folding>
+                <element signature="e#0#601#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -256,20 +166,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot-dubbo-server/src/main/java/com/muggle/bootdubboserver/BootDubboServerApplication.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="209">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boot-dubbo-server/src/main/resources/application.properties">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/authserver/OAuth2AuthorizationServerConfiguration.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="97" column="32" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -306,9 +225,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gradle-test/settings.gradle" />
-        <option value="$PROJECT_DIR$/gradle-test/test-first/build.gradle" />
-        <option value="$PROJECT_DIR$/gradle-test/build.gradle" />
         <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/proto/StudentProto.java" />
         <option value="$PROJECT_DIR$/grpc-test/src/proto/Student.proto" />
         <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/com/muggle/proto/MyRequest.java" />
@@ -355,8 +271,11 @@
         <option value="$PROJECT_DIR$/proxy-test/src/main/java/com/muggle/MyInvocationHandler.java" />
         <option value="$PROJECT_DIR$/nacos-dubbo/pom.xml" />
         <option value="$PROJECT_DIR$/oauth2-test/pom.xml" />
-        <option value="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" />
       </list>
     </option>
   </component>
@@ -409,8 +328,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -428,6 +347,52 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="muggle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -499,51 +464,50 @@
               <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="muggle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="muggle" type="462c0819:PsiDirectoryNode" />
+              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="muggle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="oauth2test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -559,9 +523,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558173762306" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558346450253" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../poseidon-cloud-all" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../poseidon-cloud-all" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -594,26 +558,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BootDubboConsumerApplication">
+  <component name="RunManager" selected="JUnit.Oauth2TestApplicationTests.token_password">
     <configuration name="BootDubboServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.muggle.bootdubboserver.BootDubboServerApplication" />
       <module name="boot-dubbo-server" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.muggle.bootdubboserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GrpcClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.muggle.boot.GrpcClient" />
-      <module name="com.muggle.grpc-test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.muggle.boot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -671,6 +622,22 @@
       </ExternalSystemSettings>
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
+    </configuration>
+    <configuration name="Oauth2TestApplicationTests.token_password" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="oauth2-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.muggle.oauth2test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.muggle.oauth2test" />
+      <option name="MAIN_CLASS_NAME" value="com.muggle.oauth2test.Oauth2TestApplicationTests" />
+      <option name="METHOD_NAME" value="token_password" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="ApachDubboTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="apach-dubbo-test" />
@@ -744,7 +711,6 @@
     </configuration>
     <list>
       <item itemvalue="Application.BootDubboServerApplication" />
-      <item itemvalue="Application.GrpcClient" />
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Gradle.grpc-test [build]" />
       <item itemvalue="Gradle.grpc-test [generateProto]" />
@@ -758,14 +724,15 @@
       <item itemvalue="Spring Boot.ReleaseTestApplication" />
       <item itemvalue="Spring Boot.NacosDubboApplication" />
       <item itemvalue="Spring Boot.Oauth2TestApplication" />
+      <item itemvalue="JUnit.Oauth2TestApplicationTests.token_password" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Oauth2TestApplicationTests.token_password" />
         <item itemvalue="Application.BootDubboServerApplication" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Gradle.grpc-test [generateProto]" />
         <item itemvalue="Gradle.grpc-test [build]" />
-        <item itemvalue="Application.GrpcClient" />
       </list>
     </recent_temporary>
   </component>
@@ -795,14 +762,16 @@
       <workItem from="1558099676850" duration="6695000" />
       <workItem from="1558143262212" duration="9651000" />
       <workItem from="1558231608437" duration="452000" />
+      <workItem from="1558315236153" duration="589000" />
+      <workItem from="1558331126541" duration="4646000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104072000" />
+    <option name="totallyTimeSpent" value="109307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -811,10 +780,10 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" x="1943" y="114" width="265" height="322" id="Project" order="7" visible="true" weight="0.21275456" />
+      <window_info x="1943" y="114" width="265" height="322" id="Project" order="7" visible="true" weight="0.21811362" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22530521" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47391787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22004357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -831,7 +800,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.45819935" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3220793" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="BPMNPalette" order="6" />
@@ -865,35 +834,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gradle-test/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2.jar!/com/alibaba/dubbo/config/annotation/Service.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-742">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2-sources.jar!/com/alibaba/dubbo/config/annotation/Service.java" />
-    <entry file="file://$PROJECT_DIR$/boot-stater-test/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="39" column="30" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boot-stater-test/src/test/java/com/muggle/bootstatertest/BootStaterTestApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" />
     <entry file="file://$PROJECT_DIR$/boot-dubbo-consumer/src/main/java/com/muggle/bootdubboconsumer/TestController.java">
@@ -1155,28 +1095,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oauth2-test/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/boot-dubbo-server/src/main/java/com/muggle/bootdubboserver/BootDubboServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1199,13 +1117,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        <state relative-caret-position="352">
+          <caret line="22" column="3" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#601#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/authserver/OAuth2AuthorizationServerConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
