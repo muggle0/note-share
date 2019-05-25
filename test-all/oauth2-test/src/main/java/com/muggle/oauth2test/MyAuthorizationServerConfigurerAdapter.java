@@ -16,10 +16,10 @@ import org.springframework.security.oauth2.config.annotation.web.configurers.Aut
  **/
 
 
-@EnableAuthorizationServer
-@Configuration
+//@EnableAuthorizationServer
+//@Configuration
 public class MyAuthorizationServerConfigurerAdapter extends AuthorizationServerConfigurerAdapter {
-    @Override
+   /* @Override
     public void configure(AuthorizationServerSecurityConfigurer security) throws Exception {
         security.allowFormAuthenticationForClients();
         security.passwordEncoder(new BCryptPasswordEncoder());
@@ -35,5 +35,5 @@ public class MyAuthorizationServerConfigurerAdapter extends AuthorizationServerC
     @Override
     public void configure(AuthorizationServerEndpointsConfigurer endpoints) throws Exception {
         super.configure(endpoints);
-    }
+    }*/
 }

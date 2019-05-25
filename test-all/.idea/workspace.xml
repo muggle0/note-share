@@ -2,20 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fc9f7d9-0b68-427d-81bd-5fabaa904b04" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/java/com/muggle/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserdetail.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../poseidon-cloud-all/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-test/oauth2-demo" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-test/oauth2-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cloud-test/security-about" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-test/security-about" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oauth2-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/poseidon-cloud-gateway/.gradle/" />
     <ignored path="$PROJECT_DIR$/poseidon-cloud-gateway/build/" />
@@ -106,16 +100,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oauth2-test/pom.xml">
-          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="747">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
@@ -134,31 +118,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="3" selection-end-line="23" />
-              <folding>
-                <element signature="e#0#601#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="256">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -166,20 +129,58 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserDetailService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="272">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserdetail.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="544">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#899#900#0" expanded="true" />
+                <element signature="e#927#928#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1091#1092#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
+                <element signature="e#1179#1180#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -187,7 +188,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/authserver/OAuth2AuthorizationServerConfiguration.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
+            <state relative-caret-position="1024">
               <caret line="97" column="32" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="32" />
             </state>
           </provider>
@@ -225,9 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/proto/StudentProto.java" />
-        <option value="$PROJECT_DIR$/grpc-test/src/proto/Student.proto" />
-        <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/com/muggle/proto/MyRequest.java" />
         <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/proto/StudentServiceGrpc.java" />
         <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/proto/MyRequest.java" />
         <option value="$PROJECT_DIR$/grpc-test/src/main/java/com/muggle/boot/MyService.java" />
@@ -274,8 +272,11 @@
         <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/TestController.java" />
         <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/Oauth2TestApplication.java" />
         <option value="$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" />
         <option value="$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserdetail.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserDetailService.java" />
       </list>
     </option>
   </component>
@@ -328,9 +329,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-179" />
+    <option name="y" value="105" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -347,52 +348,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="muggle" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -444,17 +399,6 @@
               <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="muggle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="oauth2-test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="com" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="muggle" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="oauth2test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
             <path>
               <item name="test-all" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
@@ -514,6 +458,52 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-all" type="b2602c69:ProjectViewProjectNode" />
+              <item name="proxy-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="muggle" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,9 +513,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558346450253" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558441756635" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../poseidon-cloud-all" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github/poseidon-java/poseidon" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -714,6 +704,7 @@
       <item itemvalue="Application.MainClass" />
       <item itemvalue="Gradle.grpc-test [build]" />
       <item itemvalue="Gradle.grpc-test [generateProto]" />
+      <item itemvalue="JUnit.Oauth2TestApplicationTests.token_password" />
       <item itemvalue="Spring Boot.ApachDubboTestApplication" />
       <item itemvalue="Spring Boot.BootDubboConsumerApplication" />
       <item itemvalue="Spring Boot.BootDubboServerApplication" />
@@ -724,7 +715,6 @@
       <item itemvalue="Spring Boot.ReleaseTestApplication" />
       <item itemvalue="Spring Boot.NacosDubboApplication" />
       <item itemvalue="Spring Boot.Oauth2TestApplication" />
-      <item itemvalue="JUnit.Oauth2TestApplicationTests.token_password" />
     </list>
     <recent_temporary>
       <list>
@@ -763,15 +753,33 @@
       <workItem from="1558143262212" duration="9651000" />
       <workItem from="1558231608437" duration="452000" />
       <workItem from="1558315236153" duration="589000" />
-      <workItem from="1558331126541" duration="4646000" />
+      <workItem from="1558331126541" duration="4928000" />
+      <workItem from="1558401118380" duration="2754000" />
+      <workItem from="1558440471557" duration="586000" />
+      <workItem from="1558441659991" duration="99000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Oauth2TestApplicationTests_token_password - 2019.05.20 at 18h 00m 26s.xml">
+      <configuration name="Oauth2TestApplicationTests.token_password" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oauth2TestApplicationTests_token_password - 2019.05.21 at 09h 17m 15s.xml">
+      <configuration name="Oauth2TestApplicationTests.token_password" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oauth2TestApplicationTests_token_password - 2019.05.21 at 09h 17m 41s.xml">
+      <configuration name="Oauth2TestApplicationTests.token_password" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Oauth2TestApplicationTests_token_password - 2019.05.21 at 09h 40m 25s.xml">
+      <configuration name="Oauth2TestApplicationTests.token_password" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109307000" />
+    <option name="totallyTimeSpent" value="113028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-179" y="105" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -780,10 +788,10 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info x="1943" y="114" width="265" height="322" id="Project" order="7" visible="true" weight="0.21811362" />
+      <window_info active="true" x="1943" y="114" width="265" height="322" id="Project" order="7" visible="true" weight="0.26312968" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.47391787" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3629301" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.22004357" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -798,13 +806,13 @@
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="Messages" order="15" weight="0.09766926" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3220793" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="BPMNPalette" order="6" />
-      <window_info anchor="right" id="Gradle" order="7" weight="0.28778136" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="2" weight="0.3220793" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="BPMNPalette" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.28778136" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.24973205" />
       <window_info anchor="right" id="Database" order="8" weight="0.329582" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
@@ -833,19 +841,11 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java" />
-    <entry file="file://$PROJECT_DIR$/boot-dubbo-consumer/src/main/java/com/muggle/bootdubboconsumer/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dubbo-maven-test/src/main/java/com/muggle/dubbomaventest/DubboMavenTestApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1109,18 +1109,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boot-dubbo-server/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oauth2-test/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
+        <state relative-caret-position="928">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
@@ -1135,10 +1127,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="160">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1149,20 +1141,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/authserver/OAuth2AuthorizationServerConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="97" column="32" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.2.1.RELEASE/spring-security-oauth2-2.2.1.RELEASE.jar!/org/springframework/security/oauth2/config/annotation/web/configuration/AuthorizationServerConfigurerAdapter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
@@ -1170,20 +1148,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="256">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserdetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#927#928#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oauth2-test/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/boot/spring-security-oauth2-autoconfigure/2.0.0.RELEASE/spring-security-oauth2-autoconfigure-2.0.0.RELEASE.jar!/org/springframework/boot/autoconfigure/security/oauth2/authserver/OAuth2AuthorizationServerConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="97" column="32" selection-start-line="97" selection-start-column="17" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-dubbo-server/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/oauth2-test/src/test/java/com/muggle/oauth2test/Oauth2TestApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="432">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
         </state>
       </provider>
     </entry>

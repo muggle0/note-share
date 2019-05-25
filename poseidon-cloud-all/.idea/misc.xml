@@ -10,8 +10,13 @@
         <option value="$PROJECT_DIR$/poseidon-cloud-server/pom.xml" />
         <option value="$PROJECT_DIR$/poseidon-cloud-registry/pom.xml" />
         <option value="$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server-doc/pom.xml" />
-        <option value="$PROJECT_DIR$/poseidon-cloud-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/resource-server/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/poseidon-cloud-server/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

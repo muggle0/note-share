@@ -6,37 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="demo" />
-        <module name="poseidon-cloud-oauth" />
+        <module name="poseidon-cloud-oauth-client" />
         <module name="poseidon-cloud-registry" />
         <module name="poseidon-cloud-registry-first" />
         <module name="poseidon-cloud-registry-second" />
         <module name="poseidon-cloud-server" />
         <module name="poseidon-cloud-server-doc" />
         <module name="poseidon-cloud-zuul" />
+        <module name="resource-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo" target="1.8" />
       <module name="poseidon-cloud-oauth" target="1.8" />
+      <module name="poseidon-cloud-oauth-client" target="1.8" />
       <module name="poseidon-cloud-registry" target="1.8" />
       <module name="poseidon-cloud-registry-first" target="1.8" />
       <module name="poseidon-cloud-registry-second" target="1.8" />
       <module name="poseidon-cloud-server" target="1.8" />
       <module name="poseidon-cloud-server-doc" target="1.8" />
       <module name="poseidon-cloud-zuul" target="1.8" />
+      <module name="resource-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="demo" options="-parameters" />
       <module name="poseidon-cloud-oauth" options="-parameters" />
+      <module name="poseidon-cloud-oauth-client" options="-parameters" />
       <module name="poseidon-cloud-registry" options="-parameters" />
       <module name="poseidon-cloud-registry-first" options="-parameters" />
       <module name="poseidon-cloud-registry-second" options="-parameters" />
       <module name="poseidon-cloud-server" options="-parameters" />
       <module name="poseidon-cloud-server-doc" options="-parameters" />
       <module name="poseidon-cloud-zuul" options="-parameters" />
+      <module name="resource-server" options="-parameters" />
     </option>
   </component>
 </project>

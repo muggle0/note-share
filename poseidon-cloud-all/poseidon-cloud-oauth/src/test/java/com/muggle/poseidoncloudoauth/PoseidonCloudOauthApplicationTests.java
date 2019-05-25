@@ -27,7 +27,7 @@ public class PoseidonCloudOauthApplicationTests {
 //        第三方应用登陆
         String response = restTemplate.withBasicAuth("clientId", "clientSecret").
 //                用户的用户名密码
-                postForObject("/oauth/token", params, String.class);
+        postForObject("/oauth/token", params, String.class);
         System.out.println(response);
     }
 
@@ -39,6 +39,7 @@ public class PoseidonCloudOauthApplicationTests {
                 postForObject("/oauth/token", params, String.class);
         System.out.println(response);
     }
+
     @Test
     public void token_code() {
         MultiValueMap<String, String> params = new LinkedMultiValueMap<>();
@@ -47,6 +48,7 @@ public class PoseidonCloudOauthApplicationTests {
         String response = restTemplate.withBasicAuth("clientId", "clientSecret").postForObject("/oauth/token", params, String.class);
         System.out.println(response);
     }
+
     @Test
     public void token_refresh() {
         MultiValueMap<String, String> params = new LinkedMultiValueMap<>();

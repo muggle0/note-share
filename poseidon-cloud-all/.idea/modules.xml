@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-server/demo.iml" filepath="$PROJECT_DIR$/poseidon-cloud-server/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/poseidon-cloud-all.iml" filepath="$PROJECT_DIR$/.idea/poseidon-cloud-all.iml" />
-      <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-oauth/poseidon-cloud-oauth.iml" filepath="$PROJECT_DIR$/poseidon-cloud-oauth/poseidon-cloud-oauth.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-first/poseidon-cloud-registry-first.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-first/poseidon-cloud-registry-first.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-second/poseidon-cloud-registry-second.iml" filepath="$PROJECT_DIR$/poseidon-cloud-registry/poseidon-cloud-registry-second/poseidon-cloud-registry-second.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server.iml" filepath="$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server-doc/poseidon-cloud-server-doc.iml" filepath="$PROJECT_DIR$/poseidon-cloud-server/poseidon-cloud-server-doc/poseidon-cloud-server-doc.iml" />
       <module fileurl="file://$PROJECT_DIR$/poseidon-cloud-zuul/poseidon-cloud-zuul.iml" filepath="$PROJECT_DIR$/poseidon-cloud-zuul/poseidon-cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource-server/resource-server.iml" filepath="$PROJECT_DIR$/resource-server/resource-server.iml" />
     </modules>
   </component>
 </project>
