@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.hiram.erp.dao.ValidatorRuleMapper" >
+  <resultMap id="BaseResultMap" type="com.hiram.erp.entity.ValidatorRule" >
+    <id column="id" property="id" jdbcType="BIGINT" />
+    <result column="field_name" property="fieldName" jdbcType="VARCHAR" />
+    <result column="bean_name" property="beanName" jdbcType="VARCHAR" />
+    <result column="mapper_name" property="mapperName" jdbcType="VARCHAR" />
+    <result column="validator_name" property="validatorName" jdbcType="VARCHAR" />
+    <result column="validator_description" property="validatorDescription" jdbcType="VARCHAR" />
+    <result column="grade_id" property="gradeId" jdbcType="INTEGER" />
+  </resultMap>
+  <sql id="Base_Column_List" >
+    id, field_name, bean_name,mapper_name, validator_name, validator_description, grade_id
+  </sql>
+  <select id="getRule" resultMap="BaseResultMap" parameterType="com.hiram.erp.entity.ValidatorRule" >
+    select 
+    <include refid="Base_Column_List" />
+    from t_validator_field
+    where dr = 0 AND bean_name = #{beanName} AND validator_group like "%"#{group}"%"
+  </select>
+</mapper>

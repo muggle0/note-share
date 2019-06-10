@@ -6,40 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87657e49-60c5-4a2c-aacf-46f0bdd1b4fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_53.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/Oauth2ConfigBootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/RandomAuthenticationKeyGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/ResServerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyUserdetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_0_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_security_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_oauth2_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_security_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_boot_spring_security_oauth2_autoconfigure_2_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_2_1_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_oauth_spring_security_oauth2_2_3_3_RELEASE.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_jwt_1_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_0_9_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poseidon-cloud-oauth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/poseidon-cloud-oauth/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poseidon-cloud-oauth/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/poseidon-cloud-oauth/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-all/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test-all/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test-all/cloud-test/oauth2-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../test-all/cloud-test/oauth2-demo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../test-all/cloud-test/security-about" beforeDir="false" afterPath="$PROJECT_DIR$/../test-all/cloud-test/security-about" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyAuthorizationServerConfigurerAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test-all/oauth2-test/src/main/java/com/muggle/oauth2test/MyWebSecurityConfig.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/poseidon-cloud-server/target/" />
     <ignored path="$PROJECT_DIR$/poseidon-cloud-registry/target/" />
@@ -61,7 +30,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/Oauth2ConfigBootstrap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="400">
               <caret line="30" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
@@ -76,27 +45,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenStore.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1456">
-              <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
+            <state relative-caret-position="428">
+              <caret line="106" column="38" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3155#3156#0" expanded="true" />
-                <element signature="e#3191#3192#0" expanded="true" />
-                <element signature="e#3434#3435#0" expanded="true" />
-                <element signature="e#3495#3496#0" expanded="true" />
-                <element signature="e#3542#3543#0" expanded="true" />
-                <element signature="e#3609#3610#0" expanded="true" />
-                <element signature="e#3659#3660#0" expanded="true" />
-                <element signature="e#3718#3719#0" expanded="true" />
-                <element signature="e#4327#4328#0" expanded="true" />
-                <element signature="e#4394#4395#0" expanded="true" />
-                <element signature="e#4448#4449#0" expanded="true" />
-                <element signature="e#4522#4523#0" expanded="true" />
-                <element signature="e#10850#10851#0" expanded="true" />
-                <element signature="e#10912#10913#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,14 +60,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
+            <state relative-caret-position="880">
               <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
             </state>
           </provider>
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStoreSerializationStrategy.class">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
@@ -124,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="25" column="10" selection-end-line="62" />
+            <state relative-caret-position="320">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -133,7 +88,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStore.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
+            <state relative-caret-position="1616">
               <caret line="133" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
@@ -142,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.8.RELEASE/spring-data-redis-2.1.8.RELEASE.jar!/org/springframework/data/redis/serializer/JdkSerializationRedisSerializer.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
+            <state relative-caret-position="444">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
@@ -151,12 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/BaseRedisTokenStoreSerializationStrategy.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="208">
               <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#464#465#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -164,12 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/JdkSerializationStrategy.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
+            <state relative-caret-position="192">
               <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="e#580#581#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -318,59 +265,6 @@
               <item name="muggle" type="462c0819:PsiDirectoryNode" />
               <item name="resourceserver" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="muggle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="poseidon-cloud-all" type="b2602c69:ProjectViewProjectNode" />
-              <item name="poseidon-cloud-all" type="462c0819:PsiDirectoryNode" />
-              <item name="resource-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="muggle" type="462c0819:PsiDirectoryNode" />
-              <item name="resourceserver" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -386,9 +280,9 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558778533718" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558778653099" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../power-learn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -564,7 +458,9 @@
       <workItem from="1558660497319" duration="719000" />
       <workItem from="1558676873302" duration="1140000" />
       <workItem from="1558680123624" duration="2235000" />
-      <workItem from="1558746569298" duration="13957000" />
+      <workItem from="1558746569298" duration="14200000" />
+      <workItem from="1558849664623" duration="576000" />
+      <workItem from="1558919630529" duration="1226000" />
     </task>
     <servers />
   </component>
@@ -601,13 +497,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40531000" />
+    <option name="totallyTimeSpent" value="42576000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3108253" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31939977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -618,7 +514,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.47835737" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.37846836" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29855716" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -888,21 +784,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/poseidon-cloud-oauth-client/src/main/java/com/muggle/poseidoncloudoauthclient/PoseidonCloudOauthClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poseidon-cloud-oauth-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/poseidon-cloud-oauth-client/src/main/java/com/muggle/poseidoncloudoauthclient/PoseidonCloudOauthClientApplication.java" />
+    <entry file="file://$PROJECT_DIR$/poseidon-cloud-oauth-client/pom.xml" />
     <entry file="file://$PROJECT_DIR$/poseidon-cloud-oauth/src/test/java/com/muggle/poseidoncloudoauth/PoseidonCloudOauthApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
@@ -998,31 +881,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/RandomAuthenticationKeyGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/Oauth2ConfigBootstrap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/JdkSerializationStrategy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#639#640#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.7.RELEASE/spring-core-5.1.7.RELEASE.jar!/org/springframework/core/serializer/support/DeserializingConverter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1030,74 +888,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.8.RELEASE/spring-data-redis-2.1.8.RELEASE.jar!/org/springframework/data/redis/serializer/JdkSerializationRedisSerializer.class">
+    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/Oauth2ConfigBootstrap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="400">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/RandomAuthenticationKeyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="880">
           <caret line="55" column="27" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
         </state>
       </provider>
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStoreSerializationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStore.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
+        <state relative-caret-position="1616">
           <caret line="133" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/BaseRedisTokenStoreSerializationStrategy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="208">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenStore.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/JdkSerializationStrategy.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1456">
-          <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="109" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3155#3156#0" expanded="true" />
-            <element signature="e#3191#3192#0" expanded="true" />
-            <element signature="e#3434#3435#0" expanded="true" />
-            <element signature="e#3495#3496#0" expanded="true" />
-            <element signature="e#3542#3543#0" expanded="true" />
-            <element signature="e#3609#3610#0" expanded="true" />
-            <element signature="e#3659#3660#0" expanded="true" />
-            <element signature="e#3718#3719#0" expanded="true" />
-            <element signature="e#4327#4328#0" expanded="true" />
-            <element signature="e#4394#4395#0" expanded="true" />
-            <element signature="e#4448#4449#0" expanded="true" />
-            <element signature="e#4522#4523#0" expanded="true" />
-            <element signature="e#10850#10851#0" expanded="true" />
-            <element signature="e#10912#10913#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.8.RELEASE/spring-data-redis-2.1.8.RELEASE.jar!/org/springframework/data/redis/serializer/JdkSerializationRedisSerializer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="25" column="10" selection-end-line="62" />
+        <state relative-caret-position="320">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.3.RELEASE/spring-security-oauth2-2.3.3.RELEASE.jar!/org/springframework/security/oauth2/provider/token/store/redis/RedisTokenStoreSerializationStrategy.class">
+    <entry file="file://$PROJECT_DIR$/resource-server/src/main/java/com/muggle/resourceserver/MyTokenStore.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        <state relative-caret-position="428">
+          <caret line="106" column="38" selection-start-line="106" selection-start-column="19" selection-end-line="106" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
