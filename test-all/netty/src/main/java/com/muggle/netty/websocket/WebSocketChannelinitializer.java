@@ -1,5 +1,6 @@
 package com.muggle.netty.websocket;
 
+import com.muggle.netty.http.TestHttpServerHandler;
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;
 import io.netty.channel.socket.SocketChannel;
@@ -19,6 +20,7 @@ public class WebSocketChannelinitializer extends ChannelInitializer<SocketChanne
 //                                    使用很多,netty 将请求切分成多段处理，这个东西将它聚合
         channelPipeline.addLast(new HttpObjectAggregator(8192));
 //        websocket处理器 帧 frames 传递 六种阵 二进制 关闭 断点续传 ping pong 文本
-        channelPipeline.addLast(new WebSocketServerProtocolHandler("/ws"));
+        channelPipeline.addLast(new WebSocketServerProtocolHandler("/a"));
+        channelPipeline.addLast(new TextWebSocketFrameHandler());
     }
 }

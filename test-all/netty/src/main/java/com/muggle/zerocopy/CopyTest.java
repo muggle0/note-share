@@ -11,7 +11,7 @@ public class CopyTest {
             Socket accept = serverSocket.accept();
             InputStream inputStream = accept.getInputStream();
             byte[] bytes=new byte[1024];
-            inputStream.read(bytes)
+            inputStream.read(bytes);
         }
 
     }
